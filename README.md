@@ -2,7 +2,7 @@
 Making Project on local system.
 
 # Teacher 
-Dharmapal
+Dharmapal.
 
 # Student
-Leela
+Leela.
